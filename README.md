@@ -13,7 +13,7 @@ Editor of example convert TS to JS
 
 1. Change the API key in main.js to yorkieAPI key
 
-2. Modify the name property in both files to match your project name(directory name)
+2. Modify the name property in both files(package.json, package-lock.json) to match your project name(directory name)
 
 3. download npm modules
 ```
